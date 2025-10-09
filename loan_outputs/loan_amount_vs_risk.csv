@@ -1,0 +1,4 @@
+risk_category,total_loans,total_loan_amount,avg_loan_amount
+Low,845,110425029.00,130680.51
+Medium,153,11286491.00,73767.92
+High,2,154305.00,77152.50
