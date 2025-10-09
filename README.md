@@ -122,9 +122,9 @@ This repository contains detailed **SQL-based projects** demonstrating database 
 - [hospital_patient_records_analysis.sql](./hospital_patient_records_analysis.sql)
 
 **Output Data (CSV Files):**
-- Inventory Analysis: 7 output files (stock levels, supplier dependency, turnover ratios, etc.)
-- Loan Risk Analysis: 7 output files (default rates, risk segmentation, borrower profiles, etc.)
-- Hospital Analytics: 6 output files (admissions, outcomes, billing, doctor metrics, etc.)
+- [Inventory Analysis Outputs](./inventory_outputs/) - 7 files (stock levels, supplier dependency, turnover ratios, etc.)
+- [Loan Risk Analysis Outputs](./loan_outputs/) - 7 files (default rates, risk segmentation, borrower profiles, etc.)
+- [Hospital Analytics Outputs](./hospital_outputs/) - 6 files (admissions, outcomes, billing, doctor metrics, etc.)
 
 ---
 
