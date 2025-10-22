@@ -1,0 +1,13 @@
+Policy_Type,Claim_Status,Avg_Claim
+Basic,Denied,26335.810120
+Gold,Denied,26253.858810
+Gold,Pending,26157.919763
+Basic,Approved,25662.735193
+Premium,Denied,25468.837127
+Platinum,Approved,25064.644217
+Platinum,Denied,24858.419448
+Premium,Pending,24527.311795
+Basic,Pending,24261.843013
+Premium,Approved,23719.320616
+Platinum,Pending,23225.209239
+Gold,Approved,22925.291438

@@ -1,0 +1,102 @@
+Claim_ID,Patient_ID,Provider_ID,Diagnosis,Claim_Amount,Claim_Date,Policy_Type,Age,Gender,Claim_Status,Payment_Method,Fraud_Flag
+C1010,P446,PR27,Fracture,42872.49,2025-10-06,Gold,66,Male,Denied,"Debit Card",1
+C1013,P144,PR44,Allergy,4618.65,2024-11-15,Premium,56,Other,Approved,"Net Banking",1
+C1017,P115,PR42,Flu,48203.61,2024-02-06,Platinum,62,Female,Denied,"Net Banking",1
+C1028,P459,PR43,Allergy,46964.85,2024-07-04,Gold,70,Other,Denied,"Net Banking",1
+C1034,P242,PR43,Allergy,33462.42,2024-03-10,Basic,59,Other,Pending,Cash,1
+C1061,P382,PR33,Allergy,44369.88,2025-08-28,Gold,55,Female,Approved,"Debit Card",1
+C1102,P238,PR24,Fracture,11046.25,2025-07-16,Premium,39,Male,Approved,"Net Banking",1
+C1110,P497,PR48,Cancer,34311.00,2025-10-13,Gold,72,Male,Denied,"Debit Card",1
+C1113,P116,PR35,Diabetes,3535.26,2024-10-16,Gold,55,Female,Pending,"Net Banking",1
+C1118,P208,PR24,Fracture,45476.03,2024-09-24,Gold,62,Other,Pending,"Credit Card",1
+C1138,P319,PR24,Flu,34912.38,2024-10-30,Basic,82,Male,Approved,"Net Banking",1
+C1172,P493,PR42,Cancer,49590.75,2025-06-23,Premium,75,Male,Approved,"Debit Card",1
+C1176,P250,PR3,Flu,27922.38,2025-02-26,Gold,13,Female,Pending,"Credit Card",1
+C1183,P234,PR31,Diabetes,19966.67,2024-02-28,Gold,50,Male,Denied,Cash,1
+C1189,P420,PR17,Allergy,47467.33,2024-03-05,Basic,0,Female,Pending,"Net Banking",1
+C1195,P178,PR34,Fracture,34259.77,2023-11-05,Premium,53,Female,Approved,"Debit Card",1
+C1220,P372,PR10,Cancer,25955.85,2024-12-06,Basic,56,Female,Denied,"Debit Card",1
+C1228,P235,PR27,Diabetes,32785.45,2025-02-17,Basic,10,Other,Pending,Cash,1
+C1247,P161,PR24,"Heart Disease",22792.47,2024-05-23,Premium,5,Female,Pending,"Debit Card",1
+C1249,P215,PR48,Fracture,332.11,2024-02-24,Gold,27,Other,Approved,"Debit Card",1
+C1255,P217,PR47,Allergy,5938.75,2024-12-06,Basic,34,Male,Pending,"Net Banking",1
+C1270,P242,PR12,Fracture,24150.31,2025-02-11,Basic,48,Female,Approved,Cash,1
+C1283,P197,PR3,Diabetes,20006.64,2024-01-18,Gold,15,Female,Pending,"Credit Card",1
+C1288,P281,PR3,Cancer,15762.25,2025-06-04,Basic,47,Other,Approved,"Net Banking",1
+C1297,P150,PR49,"Heart Disease",12178.62,2024-12-17,Platinum,24,Male,Pending,"Credit Card",1
+C1310,P193,PR26,Allergy,47903.86,2025-05-29,Basic,62,Male,Denied,Cash,1
+C1323,P485,PR47,"Heart Disease",6499.47,2024-01-14,Platinum,24,Female,Denied,"Credit Card",1
+C1381,P141,PR10,Diabetes,4905.46,2025-05-28,Premium,55,Other,Approved,"Net Banking",1
+C1384,P398,PR24,Fracture,18079.30,2025-03-22,Basic,33,Female,Approved,"Net Banking",1
+C1408,P151,PR50,Allergy,21148.64,2024-07-06,Gold,40,Other,Pending,"Net Banking",1
+C1419,P245,PR9,"Heart Disease",44395.82,2023-11-12,Gold,1,Female,Pending,Cash,1
+C1425,P413,PR6,Fracture,8449.17,2025-09-13,Basic,28,Female,Approved,Cash,1
+C1474,P157,PR42,"Heart Disease",15462.62,2024-04-01,Premium,50,Male,Pending,"Net Banking",1
+C1482,P382,PR50,Fracture,26801.43,2024-08-23,Platinum,70,Female,Denied,"Credit Card",1
+C1495,P152,PR20,Flu,12569.82,2024-10-03,Basic,17,Other,Denied,"Net Banking",1
+C1500,P417,PR15,Fracture,4052.57,2024-03-05,Platinum,18,Other,Approved,"Net Banking",1
+C1507,P112,PR41,"Heart Disease",32458.01,2024-08-25,Basic,73,Female,Approved,"Debit Card",1
+C1509,P477,PR18,Diabetes,13514.22,2024-01-18,Platinum,86,Female,Denied,"Net Banking",1
+C1524,P202,PR40,Flu,6339.46,2025-05-25,Platinum,43,Female,Denied,"Credit Card",1
+C1545,P269,PR32,Fracture,19140.71,2025-05-05,Gold,11,Other,Pending,"Net Banking",1
+C1548,P233,PR19,Cancer,35762.66,2025-08-21,Gold,48,Other,Pending,"Net Banking",1
+C1557,P473,PR5,Diabetes,10501.51,2024-08-05,Basic,10,Female,Denied,"Debit Card",1
+C1577,P443,PR24,Flu,19850.83,2025-04-22,Gold,89,Male,Approved,Cash,1
+C1591,P258,PR19,Fracture,3096.61,2025-01-07,Basic,71,Male,Approved,"Debit Card",1
+C1635,P424,PR24,Cancer,40970.58,2023-10-24,Premium,5,Male,Denied,"Debit Card",1
+C1700,P343,PR46,Flu,26741.63,2025-09-19,Gold,65,Other,Denied,Cash,1
+C1715,P139,PR2,"Heart Disease",37254.46,2024-08-13,Premium,14,Male,Pending,"Credit Card",1
+C1724,P170,PR47,Fracture,44527.20,2025-01-13,Platinum,42,Male,Approved,Cash,1
+C1832,P211,PR18,Flu,41638.99,2023-11-12,Gold,0,Female,Pending,"Net Banking",1
+C1845,P183,PR15,Cancer,49615.88,2024-09-21,Basic,21,Female,Denied,"Credit Card",1
+C1863,P456,PR42,Cancer,5483.78,2025-04-10,Platinum,86,Female,Pending,"Debit Card",1
+C1865,P254,PR49,Flu,44181.78,2024-07-27,Gold,69,Male,Pending,"Net Banking",1
+C1905,P237,PR18,"Heart Disease",34357.51,2024-11-08,Premium,67,Other,Denied,Cash,1
+C1921,P266,PR44,Fracture,21560.21,2024-05-05,Basic,54,Female,Approved,"Credit Card",1
+C1935,P197,PR12,Cancer,48647.51,2025-07-05,Basic,90,Male,Approved,"Debit Card",1
+C1993,P489,PR49,Flu,43900.57,2024-11-28,Premium,35,Other,Approved,"Net Banking",1
+C2020,P393,PR14,Cancer,19714.03,2024-07-05,Basic,18,Female,Approved,"Credit Card",1
+C2023,P345,PR32,Flu,22738.67,2024-11-26,Gold,78,Male,Denied,Cash,1
+C2028,P229,PR30,Cancer,16271.33,2024-03-09,Platinum,52,Other,Pending,"Net Banking",1
+C2047,P491,PR5,Diabetes,43147.36,2023-10-24,Platinum,35,Male,Pending,"Credit Card",1
+C2088,P116,PR1,Cancer,49687.39,2025-02-16,Gold,35,Other,Pending,Cash,1
+C2098,P235,PR25,Fracture,1888.42,2025-06-15,Gold,5,Male,Approved,"Net Banking",1
+C2112,P130,PR40,Cancer,10531.64,2025-03-27,Gold,25,Male,Pending,Cash,1
+C2130,P324,PR29,Diabetes,36486.32,2025-06-10,Basic,53,Female,Pending,"Debit Card",1
+C2179,P305,PR20,Fracture,27803.34,2025-07-14,Platinum,34,Male,Denied,Cash,1
+C2181,P381,PR12,Allergy,28912.14,2023-12-10,Gold,15,Male,Approved,"Credit Card",1
+C2230,P158,PR1,Allergy,15617.97,2024-01-10,Premium,48,Female,Approved,Cash,1
+C2239,P461,PR45,Flu,1221.77,2024-03-06,Platinum,28,Male,Approved,"Debit Card",1
+C2254,P135,PR20,Allergy,27172.18,2025-10-10,Basic,63,Male,Pending,"Net Banking",1
+C2263,P471,PR49,Allergy,27074.80,2025-05-30,Basic,82,Male,Pending,"Debit Card",1
+C2267,P437,PR21,Diabetes,2617.75,2024-04-11,Gold,20,Female,Approved,Cash,1
+C2307,P151,PR47,Allergy,42303.74,2024-12-05,Basic,10,Female,Pending,"Debit Card",1
+C2327,P445,PR10,Diabetes,21614.31,2024-02-18,Basic,5,Male,Pending,Cash,1
+C2334,P349,PR40,Flu,36994.42,2024-05-19,Gold,18,Other,Denied,Cash,1
+C2353,P185,PR2,"Heart Disease",29080.32,2023-12-05,Basic,28,Female,Denied,"Net Banking",1
+C2358,P266,PR12,"Heart Disease",22703.42,2023-10-27,Gold,78,Female,Approved,"Net Banking",1
+C2390,P338,PR36,Flu,20361.03,2025-03-10,Platinum,83,Other,Denied,"Debit Card",1
+C2422,P104,PR2,Cancer,470.76,2024-09-24,Gold,53,Other,Approved,"Credit Card",1
+C2425,P498,PR10,Flu,35635.29,2025-08-30,Premium,68,Female,Pending,"Net Banking",1
+C2474,P231,PR38,Fracture,1462.17,2025-06-11,Gold,6,Other,Approved,"Debit Card",1
+C2497,P332,PR1,Flu,29817.65,2024-04-28,Gold,67,Female,Pending,"Debit Card",1
+C2514,P267,PR2,"Heart Disease",23865.69,2024-11-30,Platinum,22,Other,Denied,"Net Banking",1
+C2558,P211,PR39,Allergy,1798.68,2024-11-24,Gold,54,Other,Pending,"Credit Card",1
+C2564,P451,PR20,"Heart Disease",30009.31,2024-05-18,Premium,46,Other,Pending,Cash,1
+C2607,P438,PR36,Flu,3613.58,2024-06-25,Gold,86,Male,Pending,"Net Banking",1
+C2614,P265,PR19,Allergy,1988.00,2024-08-29,Gold,19,Other,Approved,"Credit Card",1
+C2616,P189,PR5,Allergy,7665.21,2023-11-02,Basic,75,Female,Approved,"Net Banking",1
+C2629,P285,PR25,Flu,34494.14,2024-07-16,Premium,29,Male,Denied,"Debit Card",1
+C2650,P155,PR16,Fracture,19566.23,2024-06-10,Gold,49,Other,Pending,"Credit Card",1
+C2654,P137,PR11,"Heart Disease",44272.19,2025-08-31,Gold,77,Female,Denied,Cash,1
+C2669,P405,PR17,Flu,17030.33,2024-01-29,Gold,40,Female,Approved,Cash,1
+C2731,P259,PR22,Fracture,46314.23,2025-03-16,Gold,59,Female,Pending,"Net Banking",1
+C2732,P280,PR36,Cancer,35366.39,2023-11-25,Gold,85,Male,Denied,"Credit Card",1
+C2741,P155,PR43,Diabetes,22575.91,2024-07-18,Premium,10,Other,Approved,"Debit Card",1
+C2828,P369,PR23,"Heart Disease",26136.26,2024-10-20,Premium,18,Female,Approved,"Debit Card",1
+C2867,P335,PR8,Fracture,29224.64,2024-08-01,Platinum,47,Other,Denied,"Net Banking",1
+C2920,P231,PR21,Diabetes,25122.36,2024-10-27,Gold,81,Male,Approved,"Debit Card",1
+C2928,P138,PR7,"Heart Disease",33697.99,2024-03-27,Premium,27,Male,Approved,"Debit Card",1
+C2943,P419,PR49,Diabetes,10292.38,2024-03-27,Gold,0,Other,Pending,"Debit Card",1
+C2958,P359,PR6,Fracture,16860.28,2025-05-19,Premium,1,Female,Approved,"Debit Card",1
+C2969,P146,PR1,Diabetes,15394.10,2023-12-16,Basic,30,Male,Denied,"Net Banking",1

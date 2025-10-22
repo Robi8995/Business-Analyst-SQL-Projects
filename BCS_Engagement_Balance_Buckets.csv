@@ -1,0 +1,10 @@
+Engagement_Level,Balance_Bucket,Customer_Count
+"High Engagement","High Balance",138
+"High Engagement","Low Balance",119
+"High Engagement","Medium Balance",120
+"Low Engagement","High Balance",46
+"Low Engagement","Low Balance",64
+"Low Engagement","Medium Balance",63
+"Moderate Engagement","High Balance",144
+"Moderate Engagement","Low Balance",154
+"Moderate Engagement","Medium Balance",152
